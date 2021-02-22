@@ -38,3 +38,4 @@ puts "abcdef".delete("def")
 => "abc"
 #指定した文字列を削除する
 ```
+
