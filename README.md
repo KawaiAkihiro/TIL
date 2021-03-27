@@ -1,2 +1,2 @@
 # TIL
-Today I Learned.
+日々勉強したことをアウトプットする場所
